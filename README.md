@@ -33,17 +33,21 @@ https://github.com/EOSEssentials/EOS-Testnet-Monitor
 https://github.com/perebor3/eosmonitor.info
 
 https://github.com/EOSEssentials/EOSTracker-API
+
 https://github.com/EOSEssentials/EOSTracker
 
 # 开发工具
 
 API测试工具
+
 https://github.com/OracleChain/EOSDevHelper
 
 VScode
+
 https://zhuanlan.zhihu.com/p/35879998
 
 CLion
+
 https://steemit.com/eos/@ukarlsson/eos-contracts-development-with-the-clion-ide
 
 # 视频教程
