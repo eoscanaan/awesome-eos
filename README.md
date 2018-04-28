@@ -9,19 +9,19 @@ https://eosio.github.io/eos/
 
 #测试网络
 
-# Scholar testnet
+### Scholar testnet
 https://github.com/ScholarTestnet/scholar-server-config
 
-# eos.medishares
+### eos.medishares
 https://github.com/MediShares/eos-medishares-testnet
 
-# more.top
+### more.top
 https://github.com/EOSMore/EOS-More-Testnet
 
-# testnet party
+### testnet party
 https://party.eosmonitor.io/
 
-# eos-new-world-testnet
+### eos-new-world-testnet
 https://forums.eosgo.io/discussion/717/welcome-to-the-eos-new-world-testnet/p1?new=1
 
 #节点监控
@@ -37,6 +37,7 @@ https://github.com/EOSEssentials/EOSTracker
 
 #开发工具
 
+API测试工具
 https://github.com/OracleChain/EOSDevHelper
 
 VScode
@@ -71,11 +72,13 @@ Ping合约
 https://github.com/tylerdiaz/ping-eos
 
 #C++资料
+
 Boost
 http://stlchina.huhoo.net/twiki/bin/view.pl/Main/BoostStartIntroduce
 http://einverne.github.io/tags.html#boost-ref
 
 #社区技术文章
+
 https://mp.weixin.qq.com/s/TanoyabJ18gAXnEy_wrClg
 https://mp.weixin.qq.com/s/GTwlcU8FWmDWRcfqm5o6tw
 https://bihu.com/article/277651
