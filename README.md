@@ -2,12 +2,12 @@
 
 A curated list of awesome EOS frameworks, libraries, software and resources.
 
-#文档
+# 文档
 
 - API
 https://eosio.github.io/eos/
 
-#测试网络
+# 测试网络
 
 ### Scholar testnet
 https://github.com/ScholarTestnet/scholar-server-config
@@ -24,18 +24,18 @@ https://party.eosmonitor.io/
 ### eos-new-world-testnet
 https://forums.eosgo.io/discussion/717/welcome-to-the-eos-new-world-testnet/p1?new=1
 
-#节点监控
+# 节点监控
 
 https://github.com/EOSEssentials/EOS-Testnet-Monitor
 
-#区块链浏览器
+# 区块链浏览器
 
 https://github.com/perebor3/eosmonitor.info
 
 https://github.com/EOSEssentials/EOSTracker-API
 https://github.com/EOSEssentials/EOSTracker
 
-#开发工具
+# 开发工具
 
 API测试工具
 https://github.com/OracleChain/EOSDevHelper
@@ -46,12 +46,12 @@ https://zhuanlan.zhihu.com/p/35879998
 CLion
 https://steemit.com/eos/@ukarlsson/eos-contracts-development-with-the-clion-ide
 
-##视频教程
+# 视频教程
 
 https://vimeo.com/264667031
 https://vimeo.com/266585781
 
-#合约模板
+# 合约模板
 
 官方wiki - Debug合约
 https://github.com/EOSIO/eos/wiki/Smart%20Contract#8-debugging-smart-contract
@@ -71,13 +71,13 @@ https://github.com/ukarlsson/eos-clion-example
 Ping合约
 https://github.com/tylerdiaz/ping-eos
 
-#C++资料
+# C++资料
 
 Boost
 http://stlchina.huhoo.net/twiki/bin/view.pl/Main/BoostStartIntroduce
 http://einverne.github.io/tags.html#boost-ref
 
-#社区技术文章
+# 社区技术文章
 
 https://mp.weixin.qq.com/s/TanoyabJ18gAXnEy_wrClg
 https://mp.weixin.qq.com/s/GTwlcU8FWmDWRcfqm5o6tw
