@@ -53,28 +53,36 @@ https://vimeo.com/266585781
 
 # 合约模板
 
-官方wiki - Debug合约
+###官方wiki - Debug合约
+
 https://github.com/EOSIO/eos/wiki/Smart%20Contract#8-debugging-smart-contract
 
-官方wiki - Eosio.token, Exchange, and Eosio.msig Contracts
+###官方wiki - Eosio.token, Exchange, and Eosio.msig Contracts
+
 https://github.com/EOSIO/eos/wiki/Tutorial-eosio-token-Contract
 
-Dice合约
+###Dice合约
+
 https://zhuanlan.zhihu.com/p/35882764
 
-Moment合约 & Voting合约
+###Moment合约 & Voting合约
+
 https://github.com/EOSMore/eos-contracts
 
-Currenty合约（CLion）
+###Currenty合约（CLion）
+
 https://github.com/ukarlsson/eos-clion-example
 
-Ping合约
+###Ping合约
+
 https://github.com/tylerdiaz/ping-eos
 
 # C++资料
 
-Boost
+###Boost
+
 http://stlchina.huhoo.net/twiki/bin/view.pl/Main/BoostStartIntroduce
+
 http://einverne.github.io/tags.html#boost-ref
 
 # 社区技术文章
