@@ -28,7 +28,7 @@ https://forums.eosgo.io/discussion/717/welcome-to-the-eos-new-world-testnet/p1?n
 
 https://github.com/EOSEssentials/EOS-Testnet-Monitor
 
-# 区块链浏览器
+# 开源区块链浏览器
 
 https://github.com/perebor3/eosmonitor.info
 
@@ -92,8 +92,13 @@ http://einverne.github.io/tags.html#boost-ref
 # 社区技术文章
 
 https://mp.weixin.qq.com/s/TanoyabJ18gAXnEy_wrClg
+
 https://mp.weixin.qq.com/s/GTwlcU8FWmDWRcfqm5o6tw
+
 https://bihu.com/article/277651
+
 https://bihu.com/article/277353
+
 https://www.reddit.com/r/eos/comments/88585f/the_exhaustive_eos_faq/
+
 https://mp.weixin.qq.com/s/b_GdQSBE7JAXume8hqr6Qg
