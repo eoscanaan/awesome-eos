@@ -4,25 +4,21 @@ A curated list of awesome EOS frameworks, libraries, software and resources.
 
 # 文档
 
-- API
-https://eosio.github.io/eos/
+* [EOSIO](https://github.com/EOSIO)
+* [API](https://eosio.github.io/eos/)
+* [eosjs](https://github.com/EOSIO/eosjs)
+* [eosjs-api](https://github.com/EOSIO/eosjs-api)
+* [eosjs-ecc](https://github.com/EOSIO/eosjs-ecc)
 
 # 测试网络
 
-### Scholar testnet
-https://github.com/ScholarTestnet/scholar-server-config
-
-### eos.medishares
-https://github.com/MediShares/eos-medishares-testnet
-
-### more.top
-https://github.com/EOSMore/EOS-More-Testnet
-
-### testnet party
-https://party.eosmonitor.io/
-
-### eos-new-world-testnet
-https://forums.eosgo.io/discussion/717/welcome-to-the-eos-new-world-testnet/p1?new=1
+| EOS Testnet Name | URL |
+| --- | --- |
+| Scholar testnet | https://github.com/ScholarTestnet/scholar-server-config |
+| EOS.MediShares | https://github.com/MediShares/eos-medishares-testnet |
+| more.top | https://github.com/EOSMore/EOS-More-Testnet |
+| testnet party | https://party.eosmonitor.io/ |
+| eos-new-world-testnet | https://forums.eosgo.io/discussion/717/welcome-to-the-eos-new-world-testnet/p1?new=1 |
 
 # 节点监控
 
@@ -38,25 +34,15 @@ https://github.com/EOSEssentials/EOSTracker
 
 # 开发工具
 
-API测试工具
-
-https://github.com/OracleChain/EOSDevHelper
-
-VScode
-
-https://zhuanlan.zhihu.com/p/35879998
-
-CLion
-
-https://steemit.com/eos/@ukarlsson/eos-contracts-development-with-the-clion-ide
+* [API测试工具 by OracleChain](https://github.com/OracleChain/EOSDevHelper)
+* [VScode](https://zhuanlan.zhihu.com/p/35879998)
+* [CLion](https://steemit.com/eos/@ukarlsson/eos-contracts-development-with-the-clion-ide)
 
 # 视频教程
 
-https://vimeo.com/264667031
-
-https://vimeo.com/266585781
-
-https://objectcomputing.com/resources/events/webinars/building-apps-with-eos/webinar-recording
+* [programmer walk thru of Ricardian Contract in EOS](https://vimeo.com/264667031)
+* [1000 transactions per seconds demo on EOS](https://vimeo.com/266585781)
+* [BUILDING DISTRIBUTED APPS ON EOS.IO](https://objectcomputing.com/resources/events/webinars/building-apps-with-eos/webinar-recording)
 
 # 合约模板
 
